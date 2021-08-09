@@ -1,2 +1,2 @@
-# ConteinerStack
-Program that simulates Container Stacks (LIFO). Object oriented programming practice
+# container-stack
+Program that simulates Container Stacks (LIFO). Object oriented programming practice.
